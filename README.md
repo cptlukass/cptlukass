@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Łukasz.
 - 👀 I’m interested in programming, process automation, tech creativity and Machine Learning.
-- 🌱 I’m currently learning Python, SQL and JavaScript will be the next point. I am going to start also Python projects on Arduino.
+- 🌱 I’m currently learning Python and SQL. JavaScript is the next point to develop already made projects. I am going to start also Python projects on Arduino.
 - 💞️ I’m looking to collaborate in both low- and high-level technology innovative projects. I'm open also for voluntary projects to help people by tech in any way.  
 - 📫 How to reach me: mail -> lukaszsala95@gmail.com,
                     linkedin -> https://www.linkedin.com/in/lukasz-sala-84373a153
