@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Łukasz.
-- 👀 I’m interested in programming, process automation, tech creativity and Machine Learning.
-- 🌱 I’m currently learning Python and SQL. I am also studying currently Computer Science with a specialization in Mobile Systems.
+- 👀 I’m interested in programming, process automation and tech creativity.
+- 🌱 I’m currently learning Python and SQL. I am also studying currently Computer Science with a specialization in Business Apps.
 - 💞️ I’m looking to collaborate in both low- and high-level technology innovative projects. I'm open also for voluntary projects to help people by tech in any way.  
 - 📫 How to reach me: mail -> lukaszsala95@gmail.com,
                     linkedin -> https://www.linkedin.com/in/lukasz-sala-84373a153
